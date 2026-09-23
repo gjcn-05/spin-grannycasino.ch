@@ -1,0 +1,11 @@
+name = "spin-grannycasino-ch"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=spin-grannycasino.ch"
+HMAC_KEY = "419706dc502e971511a5a99f9523297fc2cfe0ab00eae96eea668d9d05b293a1"
+COOKIE_NAME = "gxc"
+PLAY_PATH = "try"
+BUTTON_ID = "p6c9a2a820b01dcf0717833d3c3126bed"
+GATE_SALT = "9e2cde2269177dd2"
